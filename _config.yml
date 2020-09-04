@@ -113,13 +113,13 @@ author:
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github-square"
       url: "https://github.com/candaceng"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/candaceng"
     - label: "Kaggle"
-      icon: "fab fa-fw fa-kaggle"
+      icon: "fas fa-fw fa-laptop-code"
       url: "https://www.kaggle.com/candaceng"
 
 
