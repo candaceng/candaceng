@@ -4,9 +4,10 @@ date: 2020-08-23
 tags: [natural language processing, data science]
 header:
     image: "/images/wordcloud.png"
-excerpt: "https://github.com/candaceng/data-science-capstone"
+excerpt: "Web application that predicts the next word of a partial sentence using N-gram language models"
 mathjax: "true"
 ---
+#####[GitHub]((https://github.com/candaceng/data-science-capstone)  
 
 ### Background
 
