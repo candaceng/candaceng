@@ -7,7 +7,11 @@ header:
 excerpt: "Web application that predicts the next word of a partial sentence using N-gram language models"
 mathjax: "true"
 ---
-<a style="font-size: 12px;" href="https://github.com/candaceng/data-science-capstone">GitHub Repo</a>
+<span style="font-size: 14px;">
+    <a href="https://github.com/candaceng/data-science-capstone">GitHub Repo</a>
+    <a href="https://candaceng.shinyapps.io/Text_Prediction_Using_N-grams/">Web Application</a>
+    <a href="https://rpubs.com/candaceng/exploratory-analysis">Exploratory Data Analysis Article</a>
+</span>
 
 ### Background
 
@@ -26,7 +30,7 @@ The project analyzes a large corpus of text documents to discover the structure 
 
 ### 1. Exploratory Analysis
 
-Three text files containing collections of blogs, news, and tweets were read in and cleaned to create a corpus of text, which was used to construct N-gram models. The focus was on the frequency of words, unigrams, bigrams, and trigrams. A [word cloud](https://github.com/candaceng/data-science-capstone/blob/master/2.%20Web%20Application/R%20Presentation/wordcloud.png) and several [bar charts](https://github.com/candaceng/data-science-capstone/blob/master/2.%20Web%20Application/R%20Presentation/ngram-barcharts.png) were constructed in R for visual aid. A detailed walkthrough of the data cleaning and exploratory analysis processes can be found [here](https://rpubs.com/candaceng/exploratory-analysis). 
+Three text files containing collections of blogs, news, and tweets were read in and cleaned to create a corpus of text, which was used to construct N-gram models. The focus was on the frequency of words, unigrams, bigrams, and trigrams. A word cloud and several bar charts were constructed in R for visual aid which can be found in the detailed walkthrough of the data cleaning and exploratory analysis processes [here](https://rpubs.com/candaceng/exploratory-analysis). 
 
 --------------------------------------------------------------------------------  
 
