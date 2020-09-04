@@ -1,5 +1,5 @@
 ---
-title: "[Text Prediction Using N-gram Models](https://github.com/candaceng/data-science-capstone)"
+title: "Text Prediction Using N-gram Models"
 date: 2020-08-23
 tags: [natural language processing, data science, python]
 header:
@@ -7,7 +7,8 @@ header:
 excerpt: "Web application that predicts the next word of a partial sentence using N-gram language models"
 mathjax: "true"
 ---
- 
+[GitHub Repo](https://github.com/candaceng/data-science-capstone)
+
 ### Background
 
 Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. SwiftKey builds smart keyboards that makes it easier for people to type on their mobile devices. When someone types:
