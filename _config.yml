@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Candace Ng"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "Portfolio"
   location         : "Markham, Ontario"
   email            :
