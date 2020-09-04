@@ -95,19 +95,22 @@ analytics:
 author:
   name             : "Candace Ng"
   avatar           : "/images/avatar.jpg"
-  bio              : "Portfolio"
+  bio              : "Biomedical Engineering Student at the University of Waterloo"
   location         : "Markham, Ontario"
   email            :
   links:
-    - label: "candacewyng@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "candacewyng@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/candaceng"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/candaceng"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/candaceng"
 
 # Site Footer
 footer:
@@ -118,6 +121,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/candaceng"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/candaceng"
 
 
 # Reading Files
