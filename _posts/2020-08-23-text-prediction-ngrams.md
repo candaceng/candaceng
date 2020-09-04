@@ -7,7 +7,7 @@ header:
 excerpt: "Web application that predicts the next word of a partial sentence using N-gram language models"
 mathjax: "true"
 ---
-<p style="font-size: 12px;">[GitHub Repo](https://github.com/candaceng/data-science-capstone)</p>
+<a style="font-size: 12px;" href="https://github.com/candaceng/data-science-capstone">GitHub Repo</a>
 
 ### Background
 
