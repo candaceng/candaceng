@@ -1,5 +1,5 @@
 ---
-title: "Text Prediction Using N-gram Models"
+title: ["Text Prediction Using N-gram Models"](https://github.com/candaceng/data-science-capstone)
 date: 2020-08-23
 tags: [natural language processing, data science]
 header:

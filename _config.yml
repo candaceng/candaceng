@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "contrast", "default", "dirt", "aqua", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Candace Ng"
