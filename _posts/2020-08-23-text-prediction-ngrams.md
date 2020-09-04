@@ -3,7 +3,7 @@ title: "Text Prediction Using N-gram Models"
 date: 2020-08-23
 tags: [natural language processing, data science]
 header:
-    image: "/images/perceptron/wordcloud.png"
+    image: "/images/wordcloud.png"
 excerpt: "Web application that predicts the next word of a partial sentence using N-gram language models"
 mathjax: "true"
 ---
