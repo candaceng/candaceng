@@ -8,8 +8,8 @@ excerpt: "Web application that predicts the next word of a partial sentence usin
 mathjax: "true"
 ---
 <span style="font-size: 14px;">
-    <a href="https://github.com/candaceng/data-science-capstone">GitHub Repo</a>
-    <a href="https://candaceng.shinyapps.io/Text_Prediction_Using_N-grams/">Web Application</a>
+    <a href="https://github.com/candaceng/data-science-capstone">GitHub Repo</a> &emsp
+    <a href="https://candaceng.shinyapps.io/Text_Prediction_Using_N-grams/">Web Application</a> &emsp
     <a href="https://rpubs.com/candaceng/exploratory-analysis">Exploratory Data Analysis Article</a>
 </span>
 
