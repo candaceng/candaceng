@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Virtual Trading Application"
 date: 2020-04-23
 tags: [flask, sql, python, api]
 excerpt: "Virtual stock trading web app using real time data"
-mathjax: "true"
+published: true
 ---
 <a style="font-size: 14px;" href="https://github.com/candaceng/virtual-trading">GitHub Repo</a>
 
