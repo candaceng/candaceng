@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Virtual Trading Application"
 date: 2020-04-23
 tags: [flask, sql, python, api]
