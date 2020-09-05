@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-05T14:35:16-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Portfolio</subtitle><author><name>Candace Ng</name></author><entry><title type="html">Text Prediction Using N-gram Models</title><link href="http://localhost:4000/text-prediction-ngrams/" rel="alternate" type="text/html" title="Text Prediction Using N-gram Models" /><published>2020-08-23T00:00:00-04:00</published><updated>2020-08-23T00:00:00-04:00</updated><id>http://localhost:4000/text-prediction-ngrams</id><content type="html" xml:base="http://localhost:4000/text-prediction-ngrams/">&lt;p&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;
+    &lt;a href=&quot;https://github.com/candaceng/data-science-capstone&quot;&gt;GitHub Repo&lt;/a&gt;  
+    &lt;a href=&quot;https://candaceng.shinyapps.io/Text_Prediction_Using_N-grams/&quot;&gt;Web Application&lt;/a&gt;  
+    &lt;a href=&quot;https://rpubs.com/candaceng/exploratory-analysis&quot;&gt;Exploratory Data Analysis Article&lt;/a&gt;
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
+
+&lt;p&gt;Around the world, people are spending an increasing amount of time on their mobile devices for a wide range of activities. Microsoft SwiftKey builds smart keyboards that makes it easier for people to generate text on their mobile devices. When someone types:&lt;/p&gt;
+
+&lt;p&gt;“I went to the “&lt;/p&gt;
+
+&lt;p&gt;the keyboard presents three options for what the next word might be. For example, the three words might be gym, store, restaurant. The focus of this project is to understand and build a predictive text model like those used by SwiftKey.&lt;/p&gt;
+
+&lt;p&gt;The project analyzes a large corpus of text documents to discover the structure in the data and find how words are put together. It will cover two main topics:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Cleaning and analyzing text data&lt;/li&gt;
+  &lt;li&gt;Building and sampling from a predictive text model&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;1-exploratory-analysis&quot;&gt;1. Exploratory Analysis&lt;/h3&gt;
+
+&lt;p&gt;Three text files containing collections of blogs, news, and tweets were read in and cleaned to create a corpus of text, which was used to construct N-gram models. The focus was on the frequency of words, unigrams, bigrams, and trigrams. A word cloud and several bar charts were constructed in R for visual aid which can be found in the detailed walkthrough of the data cleaning and exploratory analysis processes &lt;a href=&quot;https://rpubs.com/candaceng/exploratory-analysis&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;2-web-application&quot;&gt;2. Web Application&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://candaceng.shinyapps.io/Text_Prediction_Using_N-grams/&quot;&gt;web application&lt;/a&gt; was built using Shiny. The user interface presents the predictive model that makes the best guess of what the next word of an incomplete sentence will be. Simply enter a partial sentence in the input field and the predicted next word will be generated in live time. Users can also view statistics of the text corpus by toggling between bar charts of the most frequently occurring N-grams. We currently support unigrams, bigrams, and trigrams.&lt;/p&gt;</content><author><name>Candace Ng</name></author><category term="natural language processing" /><category term="data science" /><category term="python" /><summary type="html">Web application that predicts the next word of a partial sentence using N-gram language models</summary></entry><entry><title type="html">Virtual Trading Application</title><link href="http://localhost:4000/virtual-trading/" rel="alternate" type="text/html" title="Virtual Trading Application" /><published>2020-04-23T00:00:00-04:00</published><updated>2020-04-23T00:00:00-04:00</updated><id>http://localhost:4000/virtual-trading</id><content type="html" xml:base="http://localhost:4000/virtual-trading/">&lt;p&gt;&lt;a style=&quot;font-size: 14px;&quot; href=&quot;https://github.com/candaceng/virtual-trading&quot;&gt;GitHub Repo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;about&quot;&gt;About&lt;/h3&gt;
+&lt;p&gt;A virtual trading web app that lets users trade stocks with real time data. Basic functionality (i.e. registering for an account, getting a stock quote, allowing users to buy/sell stocks, and displaying a user’s stock portfolio) was implemented and submitted to Harvard’s CS50 online course as part of problem set 8. Additional features are currently being implemented.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-i-built-it&quot;&gt;How I built it&lt;/h3&gt;
+&lt;p&gt;The dynamic web app was built with Python, using the Flask framework. SQL was used to store the databases of registered users and all stock purchases/sells. HTML, CSS, and Bootstrap were used for the frontend to style the user interface. IEX Cloud was the platform used to gather real time financial data through their API.&lt;/p&gt;</content><author><name>Candace Ng</name></author><category term="flask" /><category term="sql" /><category term="python" /><category term="api" /><summary type="html">Virtual stock trading web app using real time data</summary></entry></feed>
