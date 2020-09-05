@@ -15,7 +15,7 @@ mathjax: "true"
 
 ### Background
 
-Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. SwiftKey builds smart keyboards that makes it easier for people to type on their mobile devices. When someone types:
+Around the world, people are spending an increasing amount of time on their mobile devices for a wide range of activities. Microsoft SwiftKey builds smart keyboards that makes it easier for people to generate text on their mobile devices. When someone types:
 
 "I went to the "
 
