@@ -54,14 +54,14 @@ mathjax: "true"
         set to 3.2, the recovery rate was set to 0.23, and time ranged from 0 to 20. Note that the units of these values do not matter as we are only concerned 
         with the shape of the model. t = 20 could represent days, weeks, or years and the same curves would be produced.
         <br><br>
-        <img class="center" src="/images/graph-1.png" alt="" height="300" width="500">
+        <img class="center" src="{{ site.url }}{{ site.baseurl }}/images/graph-1.png" alt="" height="300" width="500">
         <br><br>
         Notice that the y values range from 0 to 1. This is representative of the percentage of the human population in decimal form. The red curve (percentage of 
         infected individuals) is what we are currently concerned about. It can be seen in the curve that the peak almost hits 0.8, meaning that nearly 80% of 
         the world's population is expected to be infected at once. If the transmission rate were to decrease then the peak of the red curve decreases along with it,
         as illustrated below. 
         <br><br>
-        <img class="center" src="/images/graph-2.png" alt="" height="300" width="500">
+        <img class="center" src="{{ site.url }}{{ site.baseurl }}/images/graph-2.png" alt="" height="300" width="500">   
         <br><br>
         This is what the media means by "flattening the curve"! Here's what we can do collectively to lower the transmission rate:       
         <ul>
