@@ -16,7 +16,7 @@ mathjax: "true"
         understand what this curve is all about. You can watch the video below or read through the article (or both!).
         <br><br><i>Disclaimer: I am not an epidemiologist; this article is for informational purposes only.</i>
     </p>
-    <iframe width="500" height="300"
+    <iframe class="align-center" height="300" width="500"
         src="https://www.youtube.com/embed/k6nLfCbAzgo">
     </iframe>
     <br>
