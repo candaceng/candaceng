@@ -15,7 +15,7 @@ A virtual trading web app that uses real time data pulled from the IEX Cloud API
 - Register for an account 
 - Get a stock quote 
 - Buy/sell stocks
-- View their stock profile
+- View their stock profile  
 User profiles are stored in a database managed on PostgreSQL and the web application is hosted on Heroku. 
 
 ### How I built it
