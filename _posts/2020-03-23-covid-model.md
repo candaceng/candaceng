@@ -74,3 +74,7 @@ mathjax: "true"
     </p>
     <h5 class="center">Stay informed and stay healthy!</h5>
 </body>
+<span style="font-size: 14px;">
+    <a href="https://github.com/candaceng/covid-model">GitHub Repo</a> &emsp;
+    <a href="https://stupefied-mcnulty-6a906f.netlify.com">Web Application</a> &emsp;
+</span>

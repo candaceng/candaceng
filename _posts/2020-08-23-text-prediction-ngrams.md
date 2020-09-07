@@ -37,3 +37,9 @@ Three text files containing collections of blogs, news, and tweets were read in 
 ### 2. Web Application
 
 The [web application](https://candaceng.shinyapps.io/Text_Prediction_Using_N-grams/) was built using Shiny. The user interface presents the predictive model that makes the best guess of what the next word of an incomplete sentence will be. Simply enter a partial sentence in the input field and the predicted next word will be generated in live time. Users can also view statistics of the text corpus by toggling between bar charts of the most frequently occurring N-grams. We currently support unigrams, bigrams, and trigrams.
+
+<span style="font-size: 14px;">
+    <a href="https://github.com/candaceng/data-science-capstone">GitHub Repo</a> &emsp;
+    <a href="https://candaceng.shinyapps.io/Text_Prediction_Using_N-grams/">Web Application</a> &emsp;
+    <a href="https://rpubs.com/candaceng/exploratory-analysis">Exploratory Data Analysis Article</a>
+</span>
