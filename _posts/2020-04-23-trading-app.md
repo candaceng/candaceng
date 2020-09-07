@@ -1,8 +1,10 @@
 ---
-title: "Virtual Trading Application"
+title: "CN23 Finance"
 date: 2020-04-23
 tags: [flask, sql, python, api]
-excerpt: "Virtual stock trading web app using real time data"
+header:
+    image: "/images/finance/header.PNG"
+excerpt: "A virtual trading web application using real time data"
 gallery1: 
     - image_path: /images/finance/register.PNG
     - image_path: /images/finance/login.PNG
