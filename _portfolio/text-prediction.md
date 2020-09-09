@@ -1,10 +1,11 @@
 ---
-title: "Text Prediction Using N-gram Models"
+title: "Text Prediction"
 date: 2020-08-23
 tags: [natural language processing, data science, python]
 header:
     image: "/images/wordcloud.png"
-excerpt: "Web application that predicts the next word of a partial sentence using N-gram language models"
+    teaser: "/images/wordcloud-teaser.png"
+excerpt: "Web application that predicts the next word of a sentence using N-gram language models"
 mathjax: "true"
 ---
 <span style="font-size: 14px;">

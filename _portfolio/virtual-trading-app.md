@@ -3,7 +3,8 @@ title: "CN23 Finance"
 date: 2020-04-23
 tags: [flask, sql, python, api]
 header:
-    image: "/images/finance/header.PNG"
+    image: "/images/finance/header.png"
+    teaser: "images/finance/transaction-history.PNG"
 excerpt: "A virtual trading web application using real time data"
 ---
 <span style="font-size: 14px;">
