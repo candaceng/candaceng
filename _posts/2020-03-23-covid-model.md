@@ -2,7 +2,7 @@
 title: "A Mathematical Model of the Covid-19 Curve"
 date: 2020-03-23
 tags: [mathematical modelling, tutorial]
-excerpt: "A visual guide to flattening the curve"
+excerpt: "A visual guide for understanding what it really means to 'flatten the curve'"
 mathjax: "true"
 ---
 <span style="font-size: 14px;">

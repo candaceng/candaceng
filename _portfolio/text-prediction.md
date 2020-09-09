@@ -6,7 +6,6 @@ header:
     image: "/images/wordcloud.png"
     teaser: "/images/wordcloud-teaser.png"
 excerpt: "Web application that predicts the next word of a sentence using N-gram language models"
-mathjax: "true"
 ---
 <span style="font-size: 14px;">
     <a href="https://github.com/candaceng/data-science-capstone">GitHub Repo</a> &emsp;
