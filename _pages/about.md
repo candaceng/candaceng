@@ -9,7 +9,7 @@ header:
     caption: "Hiking at Emerald Lake"
 ---
 
-### A Little Bit About Myself
+### A little bit about myself
 Hi! My name is Candace Ng and I'm student at the University of Waterloo based in Markham, Ontario. I'm working towards a Biomedical Engineering degree with a minor in Mathematics and an Artificial Intelligence option. Prior to entering this big chapter of my life, I was a competitive swimmer for 8 years and competed at the national level. I've always loved playing sports and being active in general, and with that comes a big appetite for good food. I will never say no to two things: sushi or anything matcha flavoured. Recently Hokkaido milk tea has also become a strong contender for joining the list. Now that I think about it maybe I should just move to Japan... 
 
 <figure class="third">
@@ -59,5 +59,11 @@ Hi! My name is Candace Ng and I'm student at the University of Waterloo based in
     </a>
     <figcaption>Staying active</figcaption>
 </figure>
+
+### What I've recently been up to
+Given the current state of the world, a lot of my free time is spent at home. Besides school and co-op, I've also taken advantage of the online courses that were made available to students around the world. In particular, I've developed a passion for machine learning and data science, and you can check out my latest projects [here]({% link _pages/portfolio.md %}). 
+
+I love programming - and through the practice of documenting my code, I've dabbled into creating articles about concepts I find interesting. You can check out these tutorials [here]({% link _pages/tutorials.md %}). 
+
 
 
