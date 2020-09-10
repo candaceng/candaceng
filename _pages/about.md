@@ -3,7 +3,6 @@ title: "About"
 permalink: /about/
 title: <br>
 excerpt: <br><br><br><br><br>
-author_profile: false
 header: 
     overlay_image: "images/emerald-lake-header.jpg"
     caption: "Hiking at Emerald Lake"
