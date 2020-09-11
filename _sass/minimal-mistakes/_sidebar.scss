@@ -23,6 +23,8 @@
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
+    padding-top: 30px; // account for fixed masthead
+
     &:hover {
       opacity: 1;
     }
