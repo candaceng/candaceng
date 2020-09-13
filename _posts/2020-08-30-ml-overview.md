@@ -16,10 +16,10 @@ After we've collected our data, we need to establish the target variable and our
 To simplify this process, it is a good idea to create plots. There are many Python and R libraries such as matplotlib, seaborn, or plotly that make it easy to create beautiful visuals. Below are examples of plots I've created while exploring the data in a drug classification problem. 
 
 <figure class="half">
-    <a class="image-popup" href="/images/ml-overview/seaborn-heatmap.PNG" title="Heatmap with Seaborn">
+    <a class="image-popup" href="/images/ml-overview/seaborn-heatmap.png" title="Heatmap with Seaborn">
         <img src="/images/ml-overview/seaborn-heatmap.PNG">
     </a>
-    <a class="image-popup" href="/images/ml-overview/seaborn-pairplot.PNG" title="Pairplot with Seaborn">
+    <a class="image-popup" href="/images/ml-overview/seaborn-pairplot.png" title="Pairplot with Seaborn">
         <img src="/images/ml-overview/seaborn-pairplot.PNG">
     </a>
     <figcaption>Sample visuals of feature distributions in a drug classification problem</figcaption>
