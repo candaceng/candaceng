@@ -10,14 +10,14 @@ Git is a *distributed version control system*, where every developer on a projec
 ### Getting Started
 After [installing Git](https://git-scm.com/), the first step is to open up the command line and configure your settings so that Git can associate you with the changes you make when working on a project.  
 ```bash
-git config --global user.name "<your name>"
-git config --global user.email "<your email>"
+git config --global user.name "<name>"
+git config --global user.email "<email>"
 ```
 
 ### Tracking a local project
 Let's start simple by initializing a repository from existing code. First we navigate to the desired directory and use the `git init` command.
 ```bash
-cd <your-directory>
+cd <directory>
 git init
 ```
 A *.git* file will appear, which means that Git is tracking the files in that particular directory. If you want to stop tracking the files, you can simply remove the *.git* file. If you only want to track a subset files in a directory, you can add a *.gitignore* file that lists the files that you don't want Git to track. In a project we typically track code files so that we can push updated changes to a repository. To view the current status of our tracked files we can use the command:
@@ -51,6 +51,29 @@ Here, *origin* is just the name of our remote repository and *master* is the nam
 ### Working in a team
 This is where Git really becomes powerful. When multiple developers are working on a project, it becomes way easier to keep code tracked and organized. Each commit you make should only tackle one specific part of the project, and your commit messages should be clear and concise. As mentioned earlier, all developers will have a full history of the project on their local machine after they've cloned the repository. We do this with the `git clone` command, and specify the url of the repository. 
 ```bash
-git clone <repo url>
+git clone <url>
 ```
 Let's say our project is to create a calculator and we want to implement the multiply function. Whenever making a change to our remote repository, we want to split off from the *master branch*. This way, we can test out our multiply function and make sure it works before merging back with the master branch. Thus if we run into bugs, we won't be breaking the main code and other developers can continue working off the latest working version. 
+```bash
+git branch <branchname>
+git checkout <branchname>
+```
+Here we created a new branch and can start working on it with `git checkout`, which is analogous to changing directories with `cd`. Now we use the same `git add` and `git commit` commands before pushing our branch to the remote repository. 
+```bash
+git push -u origin <branchname>
+```
+The `-u` flag essentially tells Git to associate the current branch with the remote branch. After doing this once, you can simply use `git pull` and `git push` without using the `-u` flag. 
+
+To merge our branch with master, we need to switch to the master branch and pull down any new changes. 
+```bash
+git checkout master
+git pull origin master
+```
+Once we've finished with the branch, we can delete it. Since our branch was pushed to the remote repository, we're going to have to delete it both locally and remotely. 
+```bash
+git branch -d <branchname>
+git push origin --delete <branchname>
+```
+
+### Summary 
+Git is great for working on agile projects at scale. Every developer has a full history of commits and can easily track changes in source code or modify parts of it, all while maintaining reliability. Though there are a lot of commands to learn, it should be quite easy to pick up once you start working with a few remote repositories with Git on the command line. 
