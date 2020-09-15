@@ -1,7 +1,7 @@
 ---
 title: "The Machine Learning Pipeline"
 date: 2020-08-30
-tags: [machine learning, data science]
+tags: [Machine Learning, Data Science]
 excerpt: "A high level overview of an end to end machine learning project"
 ---
 

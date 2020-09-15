@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Regular Expressions"
 date: 2020-06-23
-tags: [python, tutorial, regular expressions]
+tags: [Python, Regular Expressions]
 excerpt: "Finding patterns in text to extract useful information"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The Basics of Git on the Command Line"
 date: 2020-07-23
-tags: [git, version control, command line]
+tags: [Git]
 excerpt: "The fundamentals of using git on the command line"
 ---
 
