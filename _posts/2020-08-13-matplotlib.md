@@ -60,4 +60,4 @@ To save an image to your local machine, you can simply run the `savefig` method.
 plt.savefig('myfig.png')
 ```
 
-If you want to produce a multiple plots at a time, you will need to take the object oriented approach to Matplotlib, which is discussed [here]({% link _posts/2020-08-18-oop-matplotlib.md %})
+If you want to produce a multiple plots at a time, you will need to take the object oriented approach to Matplotlib, which is discussed [here]({% link _posts/2020-08-18-oop-matplotlib.md %}). 
