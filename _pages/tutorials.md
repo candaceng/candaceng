@@ -1,6 +1,6 @@
 ---
 layout: tags
-permalink: /tutorials/
-title: "Tutorials"
+permalink: /articles/
+title: "Articles"
 author_profile: true
 ---
