@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Statistics"
 date: 2020-11-23
-tags: [Data Science, Machine Learning]
+tags: [Data Science, Machine Learning, Statistics]
 excerpt: "Understanding the Bayesian approach to statistical inference"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Probability Distributions"
 date: 2020-09-23
-tags: [Machine Learning, Data Science]
+tags: [Machine Learning, Statistics]
 excerpt: "An introduction to common probability distributions"
 ---
 
