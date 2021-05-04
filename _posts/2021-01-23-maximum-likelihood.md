@@ -1,6 +1,6 @@
 ---
 title: "The Maximum Likelihood Estimate"
-date: 2021-1-23
+date: 2021-01-23
 tags: [Machine Learning, Statistics]
 excerpt: "An introduction to the maximum likelihood estimate "
 ---
