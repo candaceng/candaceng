@@ -1,8 +1,8 @@
 ---
 title: "Dynamic Programming"
 date: 2021-02-23
-tags: [Python]
-excerpt: " "
+tags: [Python, Data Structures and Algorithms]
+excerpt: "Breaking down large problems into smaller subproblems"
 ---
 
 Dynamic programming is particularly useful for optimizing recursive problems that can be broken down into smaller subproblems. The brute force recursive solution often computes a subproblem multiple times and is not as efficient as the top down or bottom up approach to dynamic programming. The most common problem that uses this approach is the calculation of Fibonacci numbers, where the next number in the sequence is defined as the sum of the previous two.
