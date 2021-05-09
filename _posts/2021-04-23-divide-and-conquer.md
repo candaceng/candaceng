@@ -15,7 +15,7 @@ Quick sort also uses a divide and conquer approach; however, the partitions made
 These algorithms are recursive, and the recurrence relation can be broken down to derive the time complexity. It turns out that both algorithms run in O(nlogn) time in an ideal scenario. 
 
 ### Fast Fourier Transform
-In digital signal processing, the Fast Fourier Transform is a divide and conquer algorithm designed to be an efficient approach to computing the discrete Fourier transform. Our goal is to obtain multiply two polynomials in less than O(n<sup>2</sup>) time. This can be achieved by taking the coefficient representation of the two polynomials and splitting them into odd and even terms. A recursive function is called on the value representation of each part and the final answer is rebuilt from these two parts to obtain the value representation of the final polynomial. It turns out that this algorithm also runs in O(nlogn) time as with the merge sort and quick sort algorithms above.
+In digital signal processing, the Fast Fourier Transform is a divide and conquer algorithm designed to be an efficient approach to computing the discrete Fourier transform. Our goal is to multiply two polynomials in less than O(n<sup>2</sup>) time. This can be achieved if the coefficient representations of the two polynomials are converted to its corresponding value representations, and converted back after multiplication. the FFT algorithm does this by splitting the polynomial into odd and even terms. A recursive function is called on the each half and the final answer is rebuilt from these two parts to obtain the value representation of the final polynomial. It turns out that this algorithm also runs in O(nlogn) time as with the merge sort and quick sort algorithms above.
 
 
 
